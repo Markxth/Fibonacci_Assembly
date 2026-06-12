@@ -1,4 +1,3 @@
-import sys
 import pefile as pe 
 
 file = pe.PE('fib.exe') #hardcode for ease of use 
